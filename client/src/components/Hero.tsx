@@ -72,19 +72,19 @@ export function Hero({ businessName, phoneNumber, heroImage }: HeroProps) {
             {/* USP Checkmarks */}
             <div className="mb-6 space-y-3">
               <div className="flex items-center gap-3">
-                <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
+                <CheckCircle style="color:#1FBD5A !important;" className="h-5 w-5 text-primary flex-shrink-0" />
                 <span className="text-base md:text-lg text-white/95">VCA-gecertificeerd & volledig verzekerd</span>
               </div>
               <div className="flex items-center gap-3">
-                <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
+                <CheckCircle style="color:#1FBD5A !important;" className="h-5 w-5 text-primary flex-shrink-0" />
                 <span className="text-base md:text-lg text-white/95">15+ jaar ervaring in dakdekkerswerkzaamheden</span>
               </div>
               <div className="flex items-center gap-3">
-                <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
+                <CheckCircle style="color:#1FBD5A !important;" className="h-5 w-5 text-primary flex-shrink-0" />
                 <span className="text-base md:text-lg text-white/95">Gratis offerte binnen 24 uur</span>
               </div>
               <div className="flex items-center gap-3">
-                <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
+                <CheckCircle style="color:#1FBD5A !important;" className="h-5 w-5 text-primary flex-shrink-0" />
                 <span className="text-base md:text-lg text-white/95">Garantie op al ons werk</span>
               </div>
             </div>
