@@ -269,6 +269,10 @@
     font-size: 23px !important;
   }
 
+  .checkmark{
+    color: #1FBD5A !important;
+  }
+
   h3.text-2xl.font-bold.font-poppins.mb-6.text-card-foreground {
     font-size: 20px !important;
     text-align: center !important;
